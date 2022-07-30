@@ -1,6 +1,6 @@
 # Hi, my name is Valiantsin Lutchanka
 _________________
-## I am an open-minded and goal-oriented manager that combines more than 12 years of customer relationship management, sales/service, and office management in the Sports industry with 5 years of experience in Information Technologies (small corporate sites development and support). Currently studing Automation testing in JavaScript
+## Currently I am studyng Automation Testing with Javascript! I am an open-minded and goal-oriented manager with high analytical skills, that combines more than 12 years of customer relationship management, sales/service, and office management in the Sports industry with 5 years of experience in Information Technologies (small corporate websites development and support).
 _________________
 ### You can reach me in linkedIn  <a href="https://www.linkedin.com/in/valiantsin-lutchanka/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Valiantsin Lutchanka" height="30" width="30" /></a>
 
