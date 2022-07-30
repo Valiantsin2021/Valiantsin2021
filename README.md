@@ -1,16 +1,5 @@
-### Hi there 👋
-
-<!--
-**Valiantsin2021/Valiantsin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on UAT testing of web applications
-- 🌱 I’m currently learning Automation testing JavaScript
-- 👯 I’m looking to collaborate on QA
-- 🤔 I’m looking for help with Jenkins
-- 💬 Ask me about ...
-- 📫 How to reach me: linkedin https://www.linkedin.com/in/valiantsin-lutchanka/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋, my name is Valiantsin Lutchanka
+_________________
+## I am an open-minded and goal-oriented manager that combines more than 12 years of customer relationship management, sales/service, and office management in the Sports industry with 5 years of experience in Information Technologies (small corporate sites development and support). Currently studing Automation testing in JavaScript
+_________________
+### You can reach me: ![linkedin](https://www.linkedin.com/in/valiantsin-lutchanka/)
