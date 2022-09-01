@@ -22,4 +22,4 @@ _________________
 
 [![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021)](https://github.com/Valiantsin2021/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valiantsin2021&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021"/>
