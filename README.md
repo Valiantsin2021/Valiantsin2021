@@ -1,6 +1,6 @@
 # Hi, my name is Valiantsin Lutchanka
 _________________
-## Currently I am improving my Automation Testing with Javascript skills! I am an open-minded and goal-oriented automation tester with high analytical skills, with proficient knowledge and strong hands on experience with Cypress, WebdriverIO and Postman testing frameworks.
+## I am a QA Lead at Verisk UAT QA and consistently improving my Automation Testing with Javascript skills! I am an open-minded and goal-oriented automation tester with high analytical skills, with proficient knowledge and strong hands on experience with Cypress, WebdriverIO, Jmeter and Postman testing frameworks.
 _________________
 ### You can reach me in linkedIn  <a href="https://www.linkedin.com/in/valiantsin-lutchanka/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Valiantsin Lutchanka" height="30" width="30" /></a>
 
