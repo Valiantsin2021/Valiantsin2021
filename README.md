@@ -11,6 +11,7 @@ _________________
 <a href="https://nodejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="NodeJS" width="30" height="32"/> </a> 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/content/ver.1554792280/uploads/2019/04/Selenium-logo-QTP-vs-Selenium-Edureka-300x270.png" alt="Selenium Webdriver" width="30" height="30"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" width="30" height="30"/> </a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30" height="30"/> </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" alt="CypressIO" width="30" height="30"/> </a>
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/mocha-1-1175012.png" alt="Mocha" width="30" height="30"/> </a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLRYIFxJ1UZDgQSQZ1kR47NuzaHdB0bQtmYwnfyLvmQ&s" alt="ChaiJS" width="30" height="30"/> </a>
