@@ -21,3 +21,17 @@ _________________
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
 
 [![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021)](https://github.com/Valiantsin2021/github-readme-stats)           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021&layout=compact"/>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/valiantsin-lutchanka/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-valiantsinlutchanka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valiantsin-lutchanka/" alt="https://www.linkedin.com/in/valiantsin-lutchanka/" />
+    </a>
+    <a href="https://github.com/Valiantsin2021" target="blank">
+        <img align="center" src="https://img.shields.io/github/followers/Valiantsin2021?label=follow&style=social" alt="valiantsin-lutchanka" />
+    </a>
+</p>
+
+<p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Valiantsin2021" alt="Valiantsin2021" />
+</p>
+
