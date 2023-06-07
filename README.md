@@ -19,6 +19,7 @@ _________________
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/jenkins-icon/jenkins-icon-17.jpg" alt="Jenkins" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" alt="VSCode" width="30" height="30"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/c8df4d3ef5efa270d3cf5ca04b70d29423ae8f91a12e61f44eed78d442f1c596/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6d61636f732d69636f6e732e61707073706f742e636f6d2f6f2f69636f6e735f617070726f766564253246706e67253246313630353336343933323737385f446f636b65725f416c745f322e706e673f67656e65726174696f6e3d3136303533373936303030373430383026616c743d6d65646961" alt="Docker" width="30" height="30"/> </a>
 
 [![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021)](https://github.com/Valiantsin2021/github-readme-stats)           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021&layout=compact"/>
 
