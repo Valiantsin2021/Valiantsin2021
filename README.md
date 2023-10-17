@@ -1,6 +1,6 @@
-# Hi, my name is Valiantsin Lutchanka
+ # Hi, my name is Valiantsin Lutchanka
 _________________
-## I am a QA Lead at Verisk UAT QA and consistently improving my Automation Testing with Javascript skills! I am an open-minded and goal-oriented automation specia;ist with high analytical skills, proficient knowledge in functional/non-functional(performance) types of testing, and strong hands on experience with Playwright, Cypress, WebdriverIO, Jmeter, K6, Mocha, and Postman/Newman testing frameworks.
+## I am a QA Lead at Verisk UAT QA and consistently improving my Automation Testing with Javascript skills! I am an open-minded and goal-oriented automation specia;ist with high analytical skills, proficient knowledge in functional/non-functional(performance) types of testing, and strong hands on experience with Playwright, Cypress, WebdriverIO, Jmeter, K6, Mocha, and Postman/Newman testing frameworks, as well as integration of test suites to CICD with Jenkins, GitHub Actions and Bamboo.
 _________________
 ### You can reach me in linkedIn  <a href="https://www.linkedin.com/in/valiantsin-lutchanka/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Valiantsin Lutchanka" height="30" width="30" /></a>
 
