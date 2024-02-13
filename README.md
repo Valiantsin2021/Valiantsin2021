@@ -20,10 +20,12 @@ _________________
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" alt="VSCode" width="30" height="30"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
 <a href="https://docs.usebruno.com/" target="_blank" rel="noreferrer"> <img src="https://docs.usebruno.com/bruno.svg" alt="Bruno" width="30" height="30"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/images/62a9c7c08ff6441a2952dad3.png" alt="Docker" width="30" height="30"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Docker" width="60" height="30"/> </a>
 <a href="https://k6.io/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/assets/img/logos/grafana-k6-logo.svg" alt="K6" width="30" height="30"/> </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/asf-logo.svg" alt="Jmeter" width="60" height="30"/> </a>
 <a href="https://www.atlassian.com/software/bamboo" target="_blank" rel="noreferrer"> <img src="https://wac-cdn.atlassian.com/dam/jcr:3565304e-e789-486b-a722-be19f067f7c7/Bamboo-blue.svg?cdnVersion=1263" alt="Bamboo" width="60" height="30"/> </a>
+<a href="https://locust.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*iHbPgMP5K4WWaP2RDBD37w.png" alt="Locust" width="30" height="30"/> </a>
+<a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/8.0.x/_static/pytest_logo_curves.svg" alt="Pytest" width="30" height="30"/> </a>
 
 [![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021)](https://github.com/Valiantsin2021/github-readme-stats)           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021&layout=compact"/>
 
