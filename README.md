@@ -27,7 +27,7 @@ _________________
 <a href="https://locust.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*iHbPgMP5K4WWaP2RDBD37w.png" alt="Locust" width="30" height="30"/> </a>
 <a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/8.0.x/_static/pytest_logo_curves.svg" alt="Pytest" width="30" height="30"/> </a>
 
-[![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021)](https://github.com/Valiantsin2021/github-readme-stats)           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021&layout=compact"/>
+[![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021&show_icons=true&theme=transparent)](https://github.com/Valiantsin2021/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021&layout=compact"/>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/valiantsin-lutchanka/" target="blank">
