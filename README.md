@@ -22,10 +22,10 @@ _________________
 <a href="https://docs.usebruno.com/" target="_blank" rel="noreferrer"> <img src="https://docs.usebruno.com/bruno.svg" alt="Bruno" width="30" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Docker" width="60" height="30"/> </a>
 <a href="https://k6.io/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/assets/img/logos/grafana-k6-logo.svg" alt="K6" width="30" height="30"/> </a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/asf-logo.svg" alt="Jmeter" width="60" height="30"/> </a>
-<a href="https://www.atlassian.com/software/bamboo" target="_blank" rel="noreferrer"> <img src="https://wac-cdn.atlassian.com/dam/jcr:3565304e-e789-486b-a722-be19f067f7c7/Bamboo-blue.svg?cdnVersion=1263" alt="Bamboo" width="60" height="30"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/apple-touch-icon.png" alt="Jmeter" width="30" height="30"/> </a>
+<a href="https://www.atlassian.com/software/bamboo" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_bamboo_logo_icon_168564.png" alt="Bamboo" width="30" height="30"/> </a>
 <a href="https://locust.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*iHbPgMP5K4WWaP2RDBD37w.png" alt="Locust" width="30" height="30"/> </a>
-<a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/8.0.x/_static/pytest_logo_curves.svg" alt="Pytest" width="30" height="30"/> </a>
+<a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noreferrer"> <img src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" alt="Pytest" width="30" height="30"/> </a>
 
 [![Valiantsin Lutchanka GitHub stats](https://github-readme-stats.vercel.app/api?username=Valiantsin2021&show_icons=true&theme=transparent)](https://github.com/Valiantsin2021/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiantsin2021&layout=compact"/>
 
