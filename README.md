@@ -44,3 +44,4 @@ _________________
     <img align="center" src="https://komarev.com/ghpvc/?username=Valiantsin2021" alt="Valiantsin2021" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Valiantsin2021)](https://github.com/ryo-ma/github-profile-trophy)
