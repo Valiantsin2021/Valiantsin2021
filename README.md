@@ -12,14 +12,13 @@ _________________
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/content/ver.1554792280/uploads/2019/04/Selenium-logo-QTP-vs-Selenium-Edureka-300x270.png" alt="Selenium Webdriver" width="30" height="30"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" width="30" height="30"/> </a>
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30" height="30"/> </a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="CypressIO" width="30" height="30"/> </a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" alt="CypressIO" width="30" height="30"/> </a>
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/mocha-1-1175012.png" alt="Mocha" width="30" height="30"/> </a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLRYIFxJ1UZDgQSQZ1kR47NuzaHdB0bQtmYwnfyLvmQ&s" alt="ChaiJS" width="30" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/git-icon/git-icon-6.jpg" alt="Git" width="30" height="30"/> </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/jenkins-icon/jenkins-icon-17.jpg" alt="Jenkins" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/atomium/atomium.png" alt="Jenkins" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" alt="VSCode" width="30" height="30"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
-<a href="https://docs.usebruno.com/" target="_blank" rel="noreferrer"> <img src="https://docs.usebruno.com/bruno.svg" alt="Bruno" width="30" height="30"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="Docker" width="60" height="30"/> </a>
 <a href="https://k6.io/" target="_blank" rel="noreferrer"> <img src="https://grafana.com/static/assets/img/logos/grafana-k6-logo.svg" alt="K6" width="30" height="30"/> </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/apple-touch-icon.png" alt="Jmeter" width="30" height="30"/> </a>
